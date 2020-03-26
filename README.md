@@ -8,7 +8,7 @@ This is our implementation of MultiModal Variational Encoder-Decoder Network (MM
 Each part contains everything required to train or test the corresponding MMVED model. For the Xigua datset we collect, we release the data as well to faciliate future research.
 
 ## Architecture
-![](https://github.com/yaochenzhu/WWW2020-MMVED/blob/master/framework.png)
+![](https://github.com/yaochenzhu/MMVED/blob/master/framework.png)
 
 ## Environment
 
