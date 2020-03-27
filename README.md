@@ -61,7 +61,7 @@ The basic usage of the codes for training and testing MMVED model on both Xigua 
 For more advanced arguments, run the code with --help argument.
 
 ##
-####**If you find our codes and dataset helpful, please kindly cite the following papers. Thanks!**
+### **If you find our codes and dataset helpful, please kindly cite the following papers. Thanks!**
 
 	@article{mmved-fullfledged,
 	  title={Predicting the Popularity of Micro-videos with Multimodal Variational Encoder-Decoder Framework},
