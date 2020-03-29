@@ -61,8 +61,10 @@ The basic usage of the codes for training and testing MMVED model on both Xigua 
 For more advanced arguments, run the code with --help argument.
 
 ##
-Fullfledged version: [Here]() ; www 2020 short paper: [Here](https://drive.google.com/open?id=15sltJ8-JU9eePJtY6bvt5ycevOlgy8QT)
+
 ### **If you find our codes and dataset helpful, please kindly cite the following papers. Thanks!**
+
+Fullfledged version: [Here]() ; www 2020 short paper: [Here](https://drive.google.com/open?id=15sltJ8-JU9eePJtY6bvt5ycevOlgy8QT)
 
 	@article{mmved-fullfledged,
 	  title={Predicting the Popularity of Micro-videos with Multimodal Variational Encoder-Decoder Framework},
