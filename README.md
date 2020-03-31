@@ -64,12 +64,12 @@ For more advanced arguments, run the code with --help argument.
 
 ### **If you find our codes and dataset helpful, please kindly cite the following papers. Thanks!**
 
-Fullfledged version: [Here]() ; www 2020 short paper: [Here](https://drive.google.com/open?id=15sltJ8-JU9eePJtY6bvt5ycevOlgy8QT)
+Fullfledged version: [Here](https://arxiv.org/abs/2003.12724) ; www 2020 short paper: [Here](https://drive.google.com/open?id=15sltJ8-JU9eePJtY6bvt5ycevOlgy8QT)
 
 	@article{mmved-fullfledged,
 	  title={Predicting the Popularity of Micro-videos with Multimodal Variational Encoder-Decoder Framework},
 	  author={Zhu, Yaochen and Xie, Jiayi and Chen, Zhenzhong},
-	  booktitle={arXiv preprint arXiv:},
+	  booktitle={arXiv preprint arXiv:2003.12724},
 	  year={2020},
 	}	
 
