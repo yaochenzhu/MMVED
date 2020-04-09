@@ -21,7 +21,7 @@ Each part contains everything required to train or test the corresponding MMVED 
 
 ### The Xigua dataset
 
-The Xigua micro-video temporal popularity prediction dataset we collect is available [here](https://drive.google.com/open?id=1-q46LeBvi1-z7riJB28tDqk-hM5eu8g_). Download the whole data folder and put them in the xigua directory. Descriptions of the files are as follows:
+The Xigua micro-video temporal popularity prediction dataset we collect is available [here](https://drive.google.com/open?id=1-q46LeBvi1-z7riJB28tDqk-hM5eu8g_). For usage, download and unzip the data folder and put them in the xigua directory. Descriptions of the files are as follows:
 
 - **`resnet50.npy`**:
    (N×128). Visual features extracted by ResNet50 pre-trained on ImageNet (PCA dimension-reduced).
@@ -37,15 +37,15 @@ The Xigua micro-video temporal popularity prediction dataset we collect is avail
 
 - **`len_9/target.npy`**: (N×9×2). Popularity groundtruth (0-axis) and absolute time (1-axis) at each timestep.
 
-- **`split/0-4/{train, val, test}.txt`**: Train, val and test samples for five splits of datasets used in our paper.
+- **`split/0-4/{train, val, test}.txt`**: Five splits of train, val and test samples used in our paper.
 
 ### The NUS dataset
 
-The original NUS dataset can be found [here](https://acmmm2016.wixsite.com/micro-videos) which was released together with the TMALL model in this [paper](http://www.nextcenter.org/wp-content/uploads/2017/06/MicroTellsMacro.JournalNExT.pdf). The descriptions of files in the dataset directory in the NUS folder are as follows:
+The original NUS dataset can be found [here](https://acmmm2016.wixsite.com/micro-videos) which was released together with the TMALL model in this [paper](http://www.nextcenter.org/wp-content/uploads/2017/06/MicroTellsMacro.JournalNExT.pdf). The descriptions of files in the dataset folder in the NUS directory are as follows:
 
 - **`vid.txt`**:  The ids of the micro-videos that we were able to download successfully at the time of our experiment.
 
-- **`split/0-4/{train, val, test}.txt`**: five splits of datasets we used in our paper.
+- **`split/0-4/{train, val, test}.txt`**: Five splits of datasets we used in our paper.
 
 ## Examples to run the Codes
 
