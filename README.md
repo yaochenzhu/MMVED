@@ -1,6 +1,6 @@
 # MMVED: Multimodal Variational Encoder Decoder Framework for Micro Video Popularity Prediction Tasks
 
-This is our implementation of MultiModal Variational Encoder-Decoder Network (MMVED) for micro-video popularity prediction, which contains two parts:
+This is our implementation of MultiModal Variational Encoder-Decoder Network (MMVED) for micro-video popularity prediction, which includes two parts:
 
 - Micro-video popularity regression on NUS dataset
 - Micro-video temporal popularity prediction on Xigua dataset
