@@ -64,7 +64,7 @@ For more advanced arguments, run the code with --help argument.
 
 ### **If you find our codes and dataset helpful, please kindly cite the following papers. Thanks!**
 
-Fullfledged version: [Here](https://arxiv.org/abs/2003.12724) ; www 2020 short paper: [Here](https://drive.google.com/open?id=15sltJ8-JU9eePJtY6bvt5ycevOlgy8QT)
+Fullfledged version: [Here](https://arxiv.org/abs/2003.12724) ; www 2020 short paper: [Here](https://dl.acm.org/doi/abs/10.1145/3366423.3380004)
 
 	@article{mmved-fullfledged,
 	  title={Predicting the Popularity of Micro-videos with Multimodal Variational Encoder-Decoder Framework},
@@ -78,6 +78,5 @@ Fullfledged version: [Here](https://arxiv.org/abs/2003.12724) ; www 2020 short p
 	  author={Xie, Jiayi and Zhu, Yaochen and Zhang, Zhibin and Peng, Jian and Yi, Jing and Hu, Yaosi and Liu, Hongyi and Chen, Zhenzhong},
 	  booktitle={The World Wide Web Conference},
 	  year={2020},
+	  pages = {2542–2548},
 	}
-
-	
