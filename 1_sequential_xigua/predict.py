@@ -26,12 +26,12 @@ mod_rep_dict = {
     "social"   :  "S",
 }
 
-### Short name the the modalities
+### Short name of the modalities
 rep_mod_dict = \
     {value:key for key, value in mod_rep_dict.items()}
 
 
-### Modality to their shae
+### Modality to their shape
 mod_shape_dict = {
     "resnet50" :  128,
     "audiovgg" :  128,
@@ -206,7 +206,7 @@ def main():
     test_model = build_test_model(args.model_path, train_shapes, test_mods, args.rnn_type)
     preds, truth = predict(test_model, test_gen, pred_path)
 
-    ### Evaluate model with numerous indexes  
+    ### Evaluate model with the nmse and corr metrics  
     eval_path = os.path.join(pred_root, "eval.txt")
     evaluate(preds, truth, eval_path)
 
