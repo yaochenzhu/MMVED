@@ -33,7 +33,7 @@ For the Xigua datset we collect, we release the data as well.
 
 ### The Xigua dataset
 
-The Xigua micro-video temporal popularity prediction dataset we collect is available [here](https://drive.google.com/open?id=1-q46LeBvi1-z7riJB28tDqk-hM5eu8g_). For usage, download and unzip the data folder and put them in the xigua directory. Descriptions of the files are as follows:
+The Xigua micro-video temporal popularity prediction dataset we collect is available [here](https://drive.google.com/open?id=1-q46LeBvi1-z7riJB28tDqk-hM5eu8g_). For usage, download, unzip the data folder and put them in the xigua directory. Descriptions of the files are as follows:
 
 - **`resnet50.npy`**:
    (N×128). Visual features extracted by ResNet50 pre-trained on ImageNet.
@@ -53,11 +53,11 @@ The Xigua micro-video temporal popularity prediction dataset we collect is avail
 
 ### The NUS dataset
 
-The original NUS dataset can be found [here](https://acmmm2016.wixsite.com/micro-videos) which was released together with the TMALL model in this [paper](http://www.nextcenter.org/wp-content/uploads/2017/06/MicroTellsMacro.JournalNExT.pdf). The descriptions of files in the dataset folder in the NUS directory are as follows:
+The original NUS dataset can be found [here](https://acmmm2016.wixsite.com/micro-videos), which was released with the TMALL model in this [paper](http://www.nextcenter.org/wp-content/uploads/2017/06/MicroTellsMacro.JournalNExT.pdf). The descriptions of files in the data folder in the NUS directory are as follows:
 
 - **`vid.txt`**:  The ids of the micro-videos that we were able to download successfully at the time of our experiment.
 
-- **`split/0-4/{train, val, test}.txt`**: Five splits of datasets we used in our paper.
+- **`split/0-4/{train, val, test}.txt`**: Five splits of the dataset we used in our paper.
 
 ## Examples to run the Codes
 
