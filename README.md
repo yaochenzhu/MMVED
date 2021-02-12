@@ -15,7 +15,9 @@ It includes two parts:
 - Micro-video popularity regression on NUS dataset.
 - Micro-video temporal popularity prediction on Xigua dataset.
 
-Each part contains everything required to train or test the corresponding MMVED model. For the Xigua datset we collect, we release the data as well.
+Each part contains everything required to train or test the corresponding MMVED model. 
+
+For the Xigua datset we collect, we release the data as well.
 
 ## Architecture
 ![](https://github.com/yaochenzhu/MMVED/blob/master/framework.png)
