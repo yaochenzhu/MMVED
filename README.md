@@ -36,7 +36,7 @@ For the Xigua datset we collect, we release the data as well.
 The Xigua micro-video temporal popularity prediction dataset we collect is available [here](https://drive.google.com/open?id=1-q46LeBvi1-z7riJB28tDqk-hM5eu8g_). For usage, download and unzip the data folder and put them in the xigua directory. Descriptions of the files are as follows:
 
 - **`resnet50.npy`**:
-   (N×128). Visual features extracted by ResNet50 pre-trained on ImageNet (PCA dimension-reduced).
+   (N×128). Visual features extracted by ResNet50 pre-trained on ImageNet.
  
 - **`audiovgg.npy`**:
    (N×128). Aural features extracted by AudioVGG pre-trained on AudioSet.
@@ -72,11 +72,9 @@ The basic usage of the codes for training and testing MMVED model on both Xigua 
 
 For more advanced arguments, run the code with --help argument.
 
-##
-
 ### **If you find our codes and dataset helpful, please kindly cite the following papers. Thanks!**
 
-Fullfledged version: [Here](https://arxiv.org/abs/2003.12724) ; www 2020 short paper: [Here](https://dl.acm.org/doi/abs/10.1145/3366423.3380004)
+Fullfledged version: [Here](https://arxiv.org/abs/2003.12724) ; WWW 2020 paper: [Here](https://dl.acm.org/doi/abs/10.1145/3366423.3380004)
 
 	@article{mmved-fullfledged,
 	  title={Predicting the Popularity of Micro-videos with Multimodal Variational Encoder-Decoder Framework},
