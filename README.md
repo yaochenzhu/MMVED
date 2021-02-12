@@ -3,10 +3,10 @@
 This is our implementation of MMVED for micro-video popularity prediction associated with:
 
  >**A multimodal variational encoder decoder framework for micro video popularity prediction,**  
- >Jie, Jiayi and Zhu, Yaochen, and others.
+ >Jie, Jiayi and Zhu, Yaochen, and others
  >Accepted as a conference paper in WWW 2020.
  
-  >**Predicting the Popularity of Micro-videos with Multimodal Variational Encoder-Decoder Framework,**  
+ >**Predicting the Popularity of Micro-videos with Multimodal Variational Encoder-Decoder Framework,**  
  >Yaochen Zhu, Jiayi Xie, Zhenzhong Chen  
  >arXiv:2003.12724
 
