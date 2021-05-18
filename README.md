@@ -1,6 +1,6 @@
 # MMVED: Multimodal Variational Encoder Decoder Framework for Micro Video Popularity Prediction
 
-Note!!! Please refers to [[here]] (https://github.com/JennyXieJiayi/HMMVED) for the lastest update of MMVED from me and my colleage!
+Note!!! Please refers to [[here]](https://github.com/JennyXieJiayi/HMMVED) for the lastest update of MMVED from me and my colleage!
 
 This is our implementation of MMVED for micro-video popularity prediction associated with:
 
