@@ -1,7 +1,7 @@
 # MMVED: Multimodal Variational Encoder Decoder Framework for Micro Video Popularity Prediction
 
 *Note!!! Please refers to [[here]](https://github.com/JennyXieJiayi/HMMVED) for the lastest update of MMVED from me and my colleage! 
-The NEW work is super interesting which basically creates a hierarchical and multimodal version of the deep variational information bottleneck. It is currently accepted by IEEE TMM.*
+The NEW work is interesting which creates a hierarchical and multimodal version of the deep variational information bottleneck. It is accepted by IEEE TMM.*
 
 This is our implementation of MMVED for micro-video popularity prediction associated with:
 
